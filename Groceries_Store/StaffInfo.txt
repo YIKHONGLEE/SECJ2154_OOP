@@ -1,0 +1,61 @@
+<<<<<<<<<< Staff Information >>>>>>>>>>
+
+Name: Jackson
+ID: 9090
+Position: manager
+Date/Time: 2024-06-02T23:52:20.234856700
+Name: Jaja
+ID: 5566
+Position: Manager
+Date/Time: 2024-06-03T00:11:13.568869800
+
+Name: Fiona
+ID: 78900
+Position: Staff
+Date/Time: 2024-06-03T00:12:20.876395200
+
+Name: Kai
+ID: 5678
+Position: Manager
+Date/Time: 2024-06-03T00:46:45.530277800
+
+Name: Henry
+ID: 33445
+Position: Staff
+Date/Time: 2024-06-03T01:07:03.141428500
+
+Name: Finn
+ID: 9098
+Position: Manager
+Date/Time: 2024-06-03T14:41:26.622896600
+
+Name: Selina
+ID: 9980
+Position: Manager
+Date/Time: 2024-06-03T16:37:05.027863400
+
+Name: aaa
+ID: 8909
+Position: HR
+Date/Time: 2024-06-03T16:42:05.518240800
+
+Name: Slane
+ID: A098
+Position: Manager
+Date/Time: 2024-06-03T17:36:05.826386900
+
+Name: Kelly
+ID: S4567
+Position: Manager
+Date/Time: 2024-06-03T17:52:05.270775500
+
+Name: Jess
+ID: A019
+Position: Staff
+Date/Time: 2024-06-03T17:55:10.941745800
+
+Name: JA
+ID: R908
+Position: Manager
+Date/Time: 2024-06-03T18:49:06.009411400
+
