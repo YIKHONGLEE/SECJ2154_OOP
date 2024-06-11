@@ -1,165 +1,25 @@
-Staff ID: 78900
-Action: Item management
-Description: Add 'Super Ring'
-Timestamp: 2024-06-03T00:12:22.393073
-
-Staff ID: 8900
+Staff ID: S001
 Action: Add Item
-Description: new added potato
-Timestamp: 2024-06-03T01:16:09.791540200
+Description: New item added: Cake
+Timestamp: 2024-06-10T16:39:10.397405600
 
-Staff ID: 9098
-Action: Add Item
-Description: New item added: Super Rinf
-Timestamp: 2024-06-03T14:42:03.281287
-
-Staff ID: 9098
+Staff ID: S001
 Action: Update Item
-Description: Item updated: Super Ring
-Timestamp: 2024-06-03T14:42:47.935827200
+Description: Item updated: Cheese Cake
+Timestamp: 2024-06-10T16:40:07.856876700
 
-Staff ID: 9098
-Action: Add Promotion
-Description: Promotion added: Super Sale
-Timestamp: 2024-06-03T14:43:36.425260800
-
-Staff ID: 9090
-Action: Add Item
-Description: New item added: Mami
-Timestamp: 2024-06-03T14:55:05.634722400
-
-Staff ID: 9090
-Action: Add Promotion
-Description: Promotion added: Super Sale
-Timestamp: 2024-06-03T14:55:33.691492200
-
-Staff ID: 9090
-Action: Add Item
-Description: New item added: Mamee
-Timestamp: 2024-06-03T15:02:19.832814500
-
-Staff ID: 9090
-Action: Add Promotion
-Description: Promotion added: Super Sale
-Timestamp: 2024-06-03T15:02:42.975585700
-
-Staff ID: 4675
-Action: Add Item
-Description: New item added: Mamee
-Timestamp: 2024-06-03T15:05:27.630329900
-
-Staff ID: 4675
-Action: Add Promotion
-Description: Promotion added: Super Sale
-Timestamp: 2024-06-03T15:05:47.131848900
-
-Staff ID: 7890
-Action: Add Item
-Description: New item added: jdaj
-Timestamp: 2024-06-03T15:43:03.485957900
-
-Staff ID: 7890
-Action: Add Promotion
-Description: Promotion added: Super Sale
-Timestamp: 2024-06-03T15:43:27.106730500
-
-Staff ID: 9980
-Action: Add Item
-Description: New item added: Super Ring
-Timestamp: 2024-06-03T16:37:34.682555100
-
-Staff ID: 9980
+Staff ID: S001
 Action: Add Promotion
 Description: Promotion added: SuperSale
-Timestamp: 2024-06-03T16:38:11.255336100
+Timestamp: 2024-06-10T16:40:58.951843900
 
-Staff ID: 9980
+Staff ID: S001
 Action: Update Item
-Description: Item updated: D
-Timestamp: 2024-06-03T16:39:04.741982800
+Description: Item updated: Dog
+Timestamp: 2024-06-10T16:45:54.683603300
 
-Staff ID: rgt
+Staff ID: S001
 Action: Add Item
-Description: New item added: ksan
-Timestamp: 2024-06-03T16:41:23.464872300
-
-Staff ID: 8909
-Action: Add Item
-Description: New item added: R
-Timestamp: 2024-06-03T16:42:20.225526300
-
-Staff ID: 8909
-Action: Add Promotion
-Description: Promotion added: SuperSale7
-Timestamp: 2024-06-03T16:43:05.403198500
-
-Staff ID: 9090
-Action: Add Item
-Description: New item added: Dove
-Timestamp: 2024-06-03T17:10:42.134052
-
-Staff ID: 9090
-Action: Add Promotion
-Description: Promotion added: SuperSle
-Timestamp: 2024-06-03T17:11:15.949868400
-
-Staff ID: 9090
-Action: Add Promotion
-Description: Promotion added: SuperSale
-Timestamp: 2024-06-03T17:11:42.068249900
-
-Staff ID: A098
-Action: Add Item
-Description: New item added: Sushi
-Timestamp: 2024-06-03T17:36:40.862875400
-
-Staff ID: A098
-Action: Add Item
-Description: New item added: Fish
-Timestamp: 2024-06-03T17:37:08.579734800
-
-Staff ID: A098
-Action: Add Promotion
-Description: Promotion added: Super Sale
-Timestamp: 2024-06-03T17:37:45.639824900
-
-Staff ID: S4567
-Action: Add Item
-Description: New item added: Cat
-Timestamp: 2024-06-03T17:52:34.468449200
-
-Staff ID: S4567
-Action: Add Item
-Description: New item added: Dog
-Timestamp: 2024-06-03T17:52:58.254518300
-
-Staff ID: S4567
-Action: Add Promotion
-Description: Promotion added: Super Sale
-Timestamp: 2024-06-03T17:53:20.869346700
-
-Staff ID: A019
-Action: Add Item
-Description: New item added: o
-Timestamp: 2024-06-03T17:55:26.073172600
-
-Staff ID: A019
-Action: Add Promotion
-Description: Promotion added: dsjf
-Timestamp: 2024-06-03T17:55:52.865306500
-
-Staff ID: R908
-Action: Add Item
-Description: New item added: Cat
-Timestamp: 2024-06-03T18:49:35.260445900
-
-Staff ID: R908
-Action: Add Promotion
-Description: Promotion added: Pet day
-Timestamp: 2024-06-03T18:50:02.825302600
-
-Staff ID: R908
-Action: Add Item
-Description: New item added: Pet
-Timestamp: 2024-06-03T18:50:45.445895100
+Description: New item added: Apple
+Timestamp: 2024-06-10T20:58:57.482931500
 

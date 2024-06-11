@@ -57,7 +57,7 @@ public class Staff {
                 try (Scanner scanner = new Scanner(file)) {
                     while (scanner.hasNextLine()) {
                         String line = scanner.nextLine();
-                        if (line.contains(name) || line.contains(staffNo)) {
+                        if (line.contains(name) && line.contains(staffNo)) {
                             exists = true;
                             break;
                         }
@@ -74,10 +74,14 @@ public class Staff {
                     sinfo.write("Date/Time: " + LocalDateTime.now() + "\n");
                     sinfo.write("\n");
                     sinfo.close();
+                    System.out.println();
                     System.out.println("Welcome " + name + "!");
+                    System.out.println();
                 }
             } else {
+                System.out.println();
                 System.out.println("Welcome " + name + "!");
+                System.out.println();
             }
 
         } catch (IOException e) {

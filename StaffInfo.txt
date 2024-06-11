@@ -1,0 +1,5 @@
+Name: Nicole
+ID: S045
+Position: Cashier
+Date/Time: 2024-06-05T14:25:07.564144800
+

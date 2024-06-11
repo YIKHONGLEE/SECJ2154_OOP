@@ -1,0 +1,30 @@
+2024-06-05T14:26:16.604541100
+
+***** Items *****
+Item Code      Name                     Price     Discount Price Quantity       Supplier            Supplier Contact    
+Hu078          Curry Cube               12.50     12.50          50             Curry Ban Fan       011-1813 5670       
+2024-06-05T14:27:34.615286900
+
+***** Items *****
+Item Code      Name                     Price     Discount Price Quantity       Supplier            Supplier Contact    
+Hu078          Curry Cube               12.50     6.25           50             Curry Ban Fan       011-1813 5670       
+2024-06-05T14:27:41.817958400
+
+***** Items *****
+Item Code      Name                     Price     Discount Price Quantity       Supplier            Supplier Contact    
+Hu078          Curry Cube               12.50     6.25           50             Curry Ban Fan       011-1813 5670       
+2024-06-05T14:27:55.134447500
+
+***** Items *****
+Item Code      Name                     Price     Discount Price Quantity       Supplier            Supplier Contact    
+Hu078          Curry Cube               12.50     6.25           50             Curry Ban Fan       011-1813 5670       
+2024-06-05T14:32:19.537966100
+
+***** Items *****
+Item Code      Name                     Price     Discount Price Quantity       Supplier            Supplier Contact    
+C018           Curry Cube               12.50     12.50          50             Curry Ban Fan       011-1138 6090       
+2024-06-05T14:32:22.443481300
+
+***** Items *****
+Item Code      Name                     Price     Discount Price Quantity       Supplier            Supplier Contact    
+C018           Curry Cube               12.50     12.50          50             Curry Ban Fan       011-1138 6090       

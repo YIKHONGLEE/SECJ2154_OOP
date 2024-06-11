@@ -1,0 +1,15 @@
+Staff ID: S045
+Action: Add Item
+Description: New item added: Curry Cube
+Timestamp: 2024-06-05T14:26:16.602547800
+
+Staff ID: S045
+Action: Add Promotion
+Description: Promotion added: New Item
+Timestamp: 2024-06-05T14:27:34.615286900
+
+Staff ID: S045
+Action: Add Item
+Description: New item added: Curry Cube
+Timestamp: 2024-06-05T14:32:19.533974500
+

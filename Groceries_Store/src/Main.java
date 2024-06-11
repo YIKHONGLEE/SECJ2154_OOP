@@ -1,5 +1,6 @@
 import java.time.LocalDate;
 import java.time.LocalDateTime;
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main {
@@ -18,6 +19,11 @@ public class Main {
         staff.recordStaff();
 
         ItemManagement itemManagement = new ItemManagement();
+        ThresholdManagement thresholdManagement = new ThresholdManagement(10); // Example threshold of 10
+
+        ArrayList<Item> items = itemManagement.getItems();
+        ArrayList<Item> orderList = thresholdManagement.checkLevel(items);
+     
 
         int choice = -1;
         while (choice != 0) {
@@ -29,6 +35,7 @@ public class Main {
             System.out.println("5. Remove Promotion");
             System.out.println("6. Display Items with Discount");
             System.out.println("7. Display History");
+            System.out.println("8. Check Item Levels");
             System.out.println("0. Exit");
             System.out.print("Enter your choice: ");
             choice = input.nextInt();
@@ -139,7 +146,7 @@ public class Main {
                 case 5:
                     System.out.println("Enter item code to remove promotion:");
                     String p = input.nextLine();
-                    itemManagement.removeItem(p);
+                    itemManagement.removePromotion(p);
                     break;
 
                 case 6:
@@ -150,6 +157,10 @@ public class Main {
                     // Display History
                     staff.displayHistory();
                     break;
+                case 8:
+                    // Check Item Levels
+                    thresholdManagement.displayOrderList(orderList);
+                    break;
                 case 0:
                     System.out.println("Exiting...");
                     break;
@@ -157,7 +168,7 @@ public class Main {
                     System.out.println("Invalid choice. Please try again.");
                     break;
             }
-            itemManagement.recordItem();
+
         }
 
         input.close();

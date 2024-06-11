@@ -1,38 +1,6 @@
-2024-06-03T18:49:35.262445600
+Date: 2024-06-10
 
 ***** Items *****
-Item Code      Name                     Price     Discount Price Quantity       Supplier            Supplier Contact    
-Q001           Cat                      9.00      9.00           3              Pet sdn bhd         0198977784          
-2024-06-03T18:49:40.389532600
-
-***** Items *****
-Item Code      Name                     Price     Discount Price Quantity       Supplier            Supplier Contact    
-Q001           Cat                      9.00      9.00           3              Pet sdn bhd         0198977784          
-2024-06-03T18:50:02.826302
-
-***** Items *****
-Item Code      Name                     Price     Discount Price Quantity       Supplier            Supplier Contact    
-Q001           Cat                      9.00      4.50           3              Pet sdn bhd         0198977784          
-2024-06-03T18:50:04.734787200
-
-***** Items *****
-Item Code      Name                     Price     Discount Price Quantity       Supplier            Supplier Contact    
-Q001           Cat                      9.00      4.50           3              Pet sdn bhd         0198977784          
-2024-06-03T18:50:13.188802300
-
-***** Items *****
-Item Code      Name                     Price     Discount Price Quantity       Supplier            Supplier Contact    
-2024-06-03T18:50:15.007828
-
-***** Items *****
-Item Code      Name                     Price     Discount Price Quantity       Supplier            Supplier Contact    
-2024-06-03T18:50:45.446893100
-
-***** Items *****
-Item Code      Name                     Price     Discount Price Quantity       Supplier            Supplier Contact    
-Q001           Pet                      9.00      9.00           5              Pet sdn bhd         89039203            
-2024-06-03T18:50:47.974153400
-
-***** Items *****
-Item Code      Name                     Price     Discount Price Quantity       Supplier            Supplier Contact    
-Q001           Pet                      9.00      9.00           5              Pet sdn bhd         89039203            
+Item Code      Name                     Price     Discount Price Quantity       Supplier ID    Supplier Name       Supplier Contact    
+Q001           Cheese Cake              15.00     7.50           3              Happy          SP001               230                 
+Q002           Apple                    2.00      2.00           9              SP002          Fruit sdn bhd       0193743829          

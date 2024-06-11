@@ -1,41 +1,63 @@
 import java.util.ArrayList;
-import java.util.List;
+import java.util.HashMap;
 
 public class ThresholdManagement {
     private int threshold;
-    private ArrayList<Item> items;
 
     public ThresholdManagement(int threshold) {
         this.threshold = threshold;
-        this.items = new ArrayList<>();
     }
 
-    public void addItem(Item item) {
-        items.add(item);
-    }
-
- 
-    public List<Item> checkLevel() {
-        List<Item> orderList = new ArrayList<>();
+    public ArrayList<Item> checkLevel(ArrayList<Item> items) {
+        ArrayList<Item> orderList = new ArrayList<>();
+        String ANSI_RED = "\u001B[31m";
+        String ANSI_RESET = "\u001B[0m";
+    
         for (Item item : items) {
             if (item.getQuantity() < threshold) {
-                System.out.println("Alert: Quantity of item with code " + item.getItemCode() + " is below threshold!");
+                System.out.println(ANSI_RED + "Alert: Quantity of item with code " + item.getItemCode() + " is below threshold!" + ANSI_RESET);
                 orderList.add(item);
             }
         }
         return orderList;
     }
 
-    
-    public void displayOrderList(List<Item> orderList) {
-        
-        System.out.println("Recommended Order List:");
+    public void displayOrderList(ArrayList<Item> orderList) {
+        // Group items by suppliers
+        HashMap<String, ArrayList<Item>> supplierItemsMap = new HashMap<>();
         for (Item item : orderList) {
-            System.out.println("Item Code: " + item.getItemCode());
-            System.out.println("Name: " + item.getName());
-            System.out.println("Current Quantity: " + item.getQuantity());
-            System.out.println("Recommended Order Quantity: " + (threshold - item.getQuantity()));
+            Supplier supplier = item.getSupplier();
+            String supplierKey = supplier.getSupplierID();
+            if (!supplierItemsMap.containsKey(supplierKey)) {
+                supplierItemsMap.put(supplierKey, new ArrayList<>());
+            }
+            supplierItemsMap.get(supplierKey).add(item);
         }
-    }
 
+        // Display order list
+        System.out.println();
+       
+        
+        for (String supplierKey : supplierItemsMap.keySet()) {
+            ArrayList<Item> items = supplierItemsMap.get(supplierKey);
+            if (items.size() > 0) {
+                Supplier supplier = items.get(0).getSupplier();
+                System.out.println("Recommended Order List:");
+                System.out.println("=======================================================================================");
+                System.out.printf("%-20s: %s\n", "Supplier Name", supplier.getName());
+                System.out.printf("%-20s: %s\n", "Supplier ID", supplier.getSupplierID());
+                System.out.printf("%-20s: %s\n", "Supplier Contact", supplier.getContact());
+                System.out.println("--------------------------------------------------------------------------------------");
+                System.out.printf("%-15s%-25s%-20s%-25s\n", "Item Code", "Name", "Current Quantity", "Recommended Order Quantity");
+                System.out.println("--------------------------------------------------------------------------------------");
+                for (Item item : items) {
+                    System.out.printf("%-15s%-25s%-20d%-25d\n",
+                            item.getItemCode(), item.getName(), item.getQuantity(), (threshold - item.getQuantity()));
+                }
+                System.out.println();
+            }
+        }
+
+        System.out.println();
+    }
 }
