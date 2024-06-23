@@ -1,0 +1,7 @@
+Date: 2024-06-23
+
+***** Items *****
+Item Code Name                Price     Discount Price Quantity       Supplier ID    Supplier Name       Supplier Contact    Type      Weight/Expiry Date       Promotion Desc      Start Date          End Date       Discount(%)    
+seq1      Milk                4.05      4.05           5              SP002          Farm77              03-36985247         Regular   N/A                      No Promotion        N/A                 N/A            0              
+P001      SuperRinf           2.50      2.50           5              SO090          Snacks              03985987785         Perishable2024-12-30               No Promotion        N/A                 N/A            0              
+B001      Potatoes            2.50      1.25           85             SP087          Vege                03-95867788         Perishable2024-12-30               Sales               2024-06-30          2024-07-01     50.0           

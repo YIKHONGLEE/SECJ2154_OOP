@@ -1,6 +1,7 @@
-Date: 2024-06-10
+Date: 2024-06-23
 
 ***** Items *****
-Item Code      Name                     Price     Discount Price Quantity       Supplier ID    Supplier Name       Supplier Contact    
-Q001           Cheese Cake              15.00     7.50           3              Happy          SP001               230                 
-Q002           Apple                    2.00      2.00           9              SP002          Fruit sdn bhd       0193743829          
+Item Code Name                Price     Discount Price Quantity       Supplier ID    Supplier Name       Supplier Contact    Type           Weight/Expiry Date       Promotion Desc      Start Date          End Date       Discount(%)    
+I520      Holland Potato      2.60      2.60           8              T001           Tom                 tom@gmail.com       Bulk           20.0                     No Promotion        N/A                 N/A            0              
+A500      Milk                2.50      2.50           50             SP019          SP019               090909              Perishable     2024-09-09               No Promotion        N/A                 N/A            0              
+P009      Tomato              0.33      0.33           60             CJS0909        LIA                 1234567890          Bulk           20.0                     No Promotion        N/A                 N/A            0              

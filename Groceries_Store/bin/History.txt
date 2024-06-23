@@ -1,0 +1,200 @@
+Staff ID: A2233
+Action: Add Item
+Description: New item added: Orange cake
+Timestamp: 2024-06-22T14:18:55.704641800
+
+Staff ID: A2233
+Action: Add Item
+Description: New item added: Biscuit 
+Timestamp: 2024-06-22T14:20:05.129155300
+
+Staff ID: A2233
+Action: Add Item
+Description: New item added: Milk pudding
+Timestamp: 2024-06-22T14:20:56.607734100
+
+Staff ID: A21
+Action: Add Item
+Description: New item added: Choco milk
+Timestamp: 2024-06-22T14:32:05.347696500
+
+Staff ID: A21
+Action: Add Item
+Description: New item added: Banana milk
+Timestamp: 2024-06-22T14:34:02.227310100
+
+Staff ID: A21
+Action: Add Item
+Description: New item added: Kiwi
+Timestamp: 2024-06-22T14:34:55.016034500
+
+Staff ID: A234
+Action: Add Item
+Description: New item added: Tofu
+Timestamp: 2024-06-22T14:37:40.652623700
+
+Staff ID: A234
+Action: Remove Item
+Description: Item removed: Biscuit
+Timestamp: 2024-06-22T14:38:04.135208400
+
+Staff ID: A234
+Action: Add Item
+Description: New item added: Avocado
+Timestamp: 2024-06-22T14:40:53.831448600
+
+Staff ID: a211
+Action: Add Item
+Description: New item added: Kimchi
+Timestamp: 2024-06-22T14:51:20.479676600
+
+Staff ID: ws2
+Action: Add Item
+Description: New item added: www
+Timestamp: 2024-06-22T14:52:36.920705800
+
+Staff ID: ws2
+Action: Add Item
+Description: New item added: salad
+Timestamp: 2024-06-22T14:53:21.662568400
+
+Staff ID: a211
+Action: Add Item
+Description: New item added: waa
+Timestamp: 2024-06-22T14:54:35.570673800
+
+Staff ID: A2333
+Action: Add Item
+Description: New item added: Kiwi Cake
+Timestamp: 2024-06-22T14:58:05.692223700
+
+Staff ID: a2121
+Action: Update Item Price
+Description: Item price updated for: www
+Timestamp: 2024-06-22T14:59:40.336364200
+
+Staff ID: a2121
+Action: Add Promotion
+Description: Promotion added: Mother day
+Timestamp: 2024-06-22T15:00:57.244643300
+
+Staff ID: a2121
+Action: Add Item
+Description: New item added: banana milk
+Timestamp: 2024-06-22T15:01:37.742802900
+
+Staff ID: a2121
+Action: Add Promotion
+Description: Promotion added: Father Day
+Timestamp: 2024-06-22T15:02:26.210690700
+
+Staff ID: B232
+Action: Update Item Quantity
+Description: Item quantity updated for: www
+Timestamp: 2024-06-22T15:07:08.609305200
+
+Staff ID: B232
+Action: Add Item
+Description: New item added: ssss
+Timestamp: 2024-06-22T15:07:44.825933700
+
+Staff ID: S009
+Action: Add Item
+Description: New item added: Potatoes
+Timestamp: 2024-06-22T19:18:27.196895300
+
+Staff ID: S009
+Action: Add Promotion
+Description: Promotion added: Sale
+Timestamp: 2024-06-22T19:21:46.541083500
+
+Staff ID: S009
+Action: Update Item Price
+Description: Item price updated for: waa
+Timestamp: 2024-06-22T19:22:06.450043500
+
+Staff ID: S009
+Action: Add Promotion
+Description: Promotion added: Sake
+Timestamp: 2024-06-22T19:29:40.456687400
+
+Staff ID: S009
+Action: Remove Promotion
+Description: Promotion removed for seq1
+Timestamp: 2024-06-22T19:29:59.089182800
+
+Staff ID: S009
+Action: Add Promotion
+Description: Promotion added: s
+Timestamp: 2024-06-22T20:02:58.197531400
+
+Staff ID: S009
+Action: Remove Promotion
+Description: Promotion removed for seq1
+Timestamp: 2024-06-22T20:03:02.212583300
+
+Staff ID: S009
+Action: Update Item
+Description: Item updated: Brush
+Timestamp: 2024-06-22T20:03:45.963647100
+
+Staff ID: S009
+Action: Update Item Quantity
+Description: Item quantity updated for: Brush
+Timestamp: 2024-06-22T20:04:26.012481
+
+Staff ID: S009
+Action: Update Item
+Description: Item updated: Milk
+Timestamp: 2024-06-22T20:05:12.178807800
+
+Staff ID: S009
+Action: Update Item Price
+Description: Item price updated for: Brush
+Timestamp: 2024-06-22T21:25:02.196868600
+
+Staff ID: S009
+Action: Update Item
+Description: Item updated: Brush
+Timestamp: 2024-06-22T21:25:14.559910700
+
+Staff ID: S009
+Action: Update Item
+Description: Item updated: Milk
+Timestamp: 2024-06-22T21:25:41.768531100
+
+Staff ID: S009
+Action: Update Item
+Description: Item updated: Milk
+Timestamp: 2024-06-22T21:26:30.983432
+
+Staff ID: S009
+Action: Add Item
+Description: New item added: Honet
+Timestamp: 2024-06-22T21:46:49.528836900
+
+Staff ID: S009
+Action: Add Item
+Description: New item added: SuperRinf
+Timestamp: 2024-06-23T00:47:15.608481400
+
+Staff ID: S009
+Action: Add Item
+Description: New item added: Potatoes
+Timestamp: 2024-06-23T00:48:22.935517200
+
+Staff ID: S009
+Action: Update Item
+Description: Item updated: Potatoes
+Timestamp: 2024-06-23T00:49:15.275575600
+
+Staff ID: S009
+Action: Add Promotion
+Description: Promotion added: Sales
+Timestamp: 2024-06-23T00:50:21.893478600
+
+Staff ID: S009
+Action: Add Item
+Description: New item added: P
+Timestamp: 2024-06-23T00:50:56.799707600
+

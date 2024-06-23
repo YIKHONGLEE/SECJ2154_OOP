@@ -42,7 +42,7 @@ public class ThresholdManagement {
             ArrayList<Item> items = supplierItemsMap.get(supplierKey);
             if (items.size() > 0) {
                 Supplier supplier = items.get(0).getSupplier();
-                System.out.println("Recommended Order List:");
+                System.out.println("\u001B[33mRecommended Order List:\u001B[0m");
                 System.out.println("=======================================================================================");
                 System.out.printf("%-20s: %s\n", "Supplier Name", supplier.getName());
                 System.out.printf("%-20s: %s\n", "Supplier ID", supplier.getSupplierID());

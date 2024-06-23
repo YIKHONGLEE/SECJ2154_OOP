@@ -13,7 +13,6 @@ public class Promotion {
         this.endDate = endDate;
         this.discount = discount;
     }
-
     
     public String getDescription() {
         return description;

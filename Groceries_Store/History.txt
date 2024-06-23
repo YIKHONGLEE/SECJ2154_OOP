@@ -1,25 +1,150 @@
 Staff ID: S001
 Action: Add Item
-Description: New item added: Cake
-Timestamp: 2024-06-10T16:39:10.397405600
+Description: New item added: Potato
+Timestamp: 2024-06-07T15:52:45.700187100
 
 Staff ID: S001
 Action: Update Item
-Description: Item updated: Cheese Cake
-Timestamp: 2024-06-10T16:40:07.856876700
-
-Staff ID: S001
-Action: Add Promotion
-Description: Promotion added: SuperSale
-Timestamp: 2024-06-10T16:40:58.951843900
-
-Staff ID: S001
-Action: Update Item
-Description: Item updated: Dog
-Timestamp: 2024-06-10T16:45:54.683603300
+Description: Item updated: Holland Potato
+Timestamp: 2024-06-07T15:53:37.088139800
 
 Staff ID: S001
 Action: Add Item
-Description: New item added: Apple
-Timestamp: 2024-06-10T20:58:57.482931500
+Description: New item added: Blueberry
+Timestamp: 2024-06-10T16:58:03.523651600
+
+Staff ID: S001
+Action: Update Item
+Description: Item updated: Egypt Blurberries
+Timestamp: 2024-06-10T16:59:08.672306300
+
+Staff ID: S001
+Action: Update Item
+Description: Item updated: Egypt Blueberries
+Timestamp: 2024-06-10T17:05:24.951952200
+
+Staff ID: S001
+Action: Add Item
+Description: New item added: Fresh Cream
+Timestamp: 2024-06-11T10:37:55.873310
+
+Staff ID: S001
+Action: Update Item
+Description: Item updated: Fresh Cream
+Timestamp: 2024-06-11T10:39:33.679376300
+
+Staff ID: S001
+Action: Add Item
+Description: New item added: Tomato
+Timestamp: 2024-06-11T10:41:25.178136400
+
+Staff ID: S001
+Action: Add Item
+Description: New item added: Chocolate
+Timestamp: 2024-06-11T10:47:05.955503300
+
+Staff ID: S001
+Action: Update Item Quantity
+Description: Item quantity updated for: Fresh Cream
+Timestamp: 2024-06-11T21:48:23.619193800
+
+Staff ID: S001
+Action: Add Item
+Description: New item added: Holland Potato
+Timestamp: 2024-06-11T21:49:51.408182
+
+Staff ID: S001
+Action: Add Promotion
+Description: Promotion added: Half Price
+Timestamp: 2024-06-11T21:55:10.739944400
+
+Staff ID: S001
+Action: Add Item
+Description: New item added: Super Ring
+Timestamp: 2024-06-11T22:08:37.670361600
+
+Staff ID: S001
+Action: Add Item
+Description: New item added: Potato
+Timestamp: 2024-06-11T22:09:47.707601800
+
+Staff ID: S001
+Action: Add Promotion
+Description: Promotion added: New Brand
+Timestamp: 2024-06-11T22:10:40.076731600
+
+Staff ID: S001
+Action: Update Supplier
+Description: Supplier updated for: Potato
+Timestamp: 2024-06-11T22:11:14.944440200
+
+Staff ID: S001
+Action: Add Item
+Description: New item added: Potato
+Timestamp: 2024-06-11T22:27:20.567497900
+
+Staff ID: S001
+Action: Add Item
+Description: New item added: Super Ring
+Timestamp: 2024-06-11T22:28:34.268237900
+
+Staff ID: S001
+Action: Add Item
+Description: New item added: Holland Potato
+Timestamp: 2024-06-11T22:34:42.004587400
+
+Staff ID: S001
+Action: Add Promotion
+Description: Promotion added: Half Price
+Timestamp: 2024-06-11T22:35:25.881798400
+
+Staff ID: S001
+Action: Add Item
+Description: New item added: Potato
+Timestamp: 2024-06-11T22:40:30.960501900
+
+Staff ID: S001
+Action: Add Promotion
+Description: Promotion added: New brand
+Timestamp: 2024-06-11T22:41:04.756001200
+
+Staff ID: S001
+Action: Add Item
+Description: New item added: Potato
+Timestamp: 2024-06-11T22:43:47.885990
+
+Staff ID: S001
+Action: Add Item
+Description: New item added: Holland Potato
+Timestamp: 2024-06-11T22:47:24.691716600
+
+Staff ID: S001
+Action: Add Promotion
+Description: Promotion added: New brand
+Timestamp: 2024-06-11T22:47:59.945308100
+
+Staff ID: S001
+Action: Add Promotion
+Description: Promotion added: New brand
+Timestamp: 2024-06-11T22:48:59.314605900
+
+Staff ID: S001
+Action: Update Item Quantity
+Description: Item quantity updated for: Holland Potato
+Timestamp: 2024-06-11T22:59:19.977981400
+
+Staff ID: S001
+Action: Add Promotion
+Description: Promotion added: New Brand
+Timestamp: 2024-06-11T23:06:15.964447100
+
+Staff ID: S001
+Action: Add Item
+Description: New item added: Milk
+Timestamp: 2024-06-23T16:11:56.431933400
+
+Staff ID: S001
+Action: Add Item
+Description: New item added: Tomato
+Timestamp: 2024-06-23T16:13:11.091348500
 

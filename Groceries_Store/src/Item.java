@@ -2,7 +2,7 @@ public class Item {
     private String itemCode;
     private String name;
     private double price;
-    private double discouuntprice;
+    private double discountprice;
     private int quantity;
     private Supplier supplier;  
     private Promotion promotion;
@@ -12,7 +12,7 @@ public class Item {
         this.itemCode = itemCode;
         this.name = name;
         this.price = price;
-        this.discouuntprice = price;
+        this.discountprice = price;
         this.quantity = quantity;
         this.promotion = promotion;
         this.supplier = supplier;
@@ -44,11 +44,11 @@ public class Item {
     }
 
     public double getDiscountPrice() {
-        return discouuntprice;
+        return discountprice;
     }
 
     public void setDiscountPrice(double discouuntprice) {
-        this.discouuntprice = discouuntprice;
+        this.discountprice = discouuntprice;
     }
 
     public int getQuantity() {
@@ -78,8 +78,8 @@ public class Item {
     public double calculatePromotion(String code) {
         
             if (code.equals(itemCode)){
-                discouuntprice = price -(price*(promotion.getDiscount()/100));
-                return discouuntprice;
+                discountprice = price -(price*(promotion.getDiscount()/100));
+                return discountprice;
                 
             }else{
                 return price;
